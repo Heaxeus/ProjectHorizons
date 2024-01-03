@@ -7,4 +7,4 @@ All parts of the project have been created by me, or are being supplimented by p
 
 - [InteractiveBooks](https://www.spigotmc.org/resources/interactivebooks.45604/) (Not mine!)
 - [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/) (Not mine!)
-- Project Horizons PLugin (Mine!)
+- Project Horizons Plugin (Mine!)
